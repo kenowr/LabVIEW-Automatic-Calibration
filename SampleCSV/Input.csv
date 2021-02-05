@@ -1,0 +1,5 @@
+Filepath,Desired Leq (D),Tolernce (T),Initial guess (G),Multiplier (M),Max. iterations for boundary search (N),Max. iterations for binary search (N)
+..\SampleData\sine_250hz.wav,60,0.1,1,4,10,10
+..\SampleData\sine_1000hz.wav,65,0.1,1,2,10,10
+..\SampleData\white_noise.wav,70,0.05,1,3,10,10
+..\SampleData\pink_noise.wav,55,0.5,1,2,10,10
