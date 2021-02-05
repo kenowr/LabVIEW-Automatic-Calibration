@@ -4,9 +4,9 @@ This is a LabVIEW implementation of the automatic calibration method described i
 
 Getting started
 ---------------
-Firstly, clone this repository by manually downloading it from https://github.com/xxxx/xxxx.git, or enter the following line from a terminal:
+Firstly, clone this repository by manually downloading it from https://github.com/kenowr/LabVIEW-Automatic-Calibration, or enter the following line from a terminal:
 
-    git clone https://github.com/xxxx/xxxx.git
+    git clone https://github.com/kenowr/LabVIEW-Automatic-Calibration
 
 Then, run the LabVIEW Virtual Instrument (VI) at `Code\Main.vi`. There is a user guide in the VI, which is also replicated here in the <a href='#User Guide'>User Guide</a> section.
 
